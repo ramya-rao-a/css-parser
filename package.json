@@ -19,8 +19,7 @@
   "scripts": {
     "test": "mocha",
     "build": "rollup -c",
-    "watch": "rollup -wc",
-    "prepublish": "npm run test && npm run build"
+    "watch": "rollup -wc"
   },
   "repository": {
     "type": "git",
